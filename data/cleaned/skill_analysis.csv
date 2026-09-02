@@ -1,0 +1,185 @@
+job_id,company_name,locations,salary_min,salary_max,salary_avg,experience_years,skill
+1,Calipers Consulting Private Limited,"Secunderabad, Hyderabad                                                        (Hybrid)",504000,710000,607000.0,0,English Proficiency (Written)
+1,Calipers Consulting Private Limited,"Secunderabad, Hyderabad                                                        (Hybrid)",504000,710000,607000.0,0,English Proficiency (Spoken)
+1,Calipers Consulting Private Limited,"Secunderabad, Hyderabad                                                        (Hybrid)",504000,710000,607000.0,0,Data entry
+1,Calipers Consulting Private Limited,"Secunderabad, Hyderabad                                                        (Hybrid)",504000,710000,607000.0,0,MS-Office
+1,Calipers Consulting Private Limited,"Secunderabad, Hyderabad                                                        (Hybrid)",504000,710000,607000.0,0,MS-Excel
+2,Gruhatara Estates,Bangalore,600000,1300000,950000.0,1,Marketing Strategies
+2,Gruhatara Estates,Bangalore,600000,1300000,950000.0,1,Digital Marketing
+2,Gruhatara Estates,Bangalore,600000,1300000,950000.0,1,Market research
+2,Gruhatara Estates,Bangalore,600000,1300000,950000.0,1,Negotiation
+3,Modtraa Design And Creation Incorporation,Bangalore,550000,1100000,825000.0,0,English Proficiency (Written)
+3,Modtraa Design And Creation Incorporation,Bangalore,550000,1100000,825000.0,0,English Proficiency (Spoken)
+3,Modtraa Design And Creation Incorporation,Bangalore,550000,1100000,825000.0,0,Effective Communication
+3,Modtraa Design And Creation Incorporation,Bangalore,550000,1100000,825000.0,0,Presentation skills
+3,Modtraa Design And Creation Incorporation,Bangalore,550000,1100000,825000.0,0,MS-Excel
+4,CCL Advisors,Mumbai,800000,1000000,900000.0,1,Statutory compliances
+4,CCL Advisors,Mumbai,800000,1000000,900000.0,1,Contract Management
+4,CCL Advisors,Mumbai,800000,1000000,900000.0,1,Legal Research
+4,CCL Advisors,Mumbai,800000,1000000,900000.0,1,Legal Drafting
+4,CCL Advisors,Mumbai,800000,1000000,900000.0,1,Legal Writing
+4,CCL Advisors,Mumbai,800000,1000000,900000.0,1,Company Law
+5,SREEDHARA ENTERPRISES,Bangalore,500000,500000,500000.0,1,English Proficiency (Written)
+5,SREEDHARA ENTERPRISES,Bangalore,500000,500000,500000.0,1,English Proficiency (Spoken)
+5,SREEDHARA ENTERPRISES,Bangalore,500000,500000,500000.0,1,Accounting
+5,SREEDHARA ENTERPRISES,Bangalore,500000,500000,500000.0,1,MS-Office
+5,SREEDHARA ENTERPRISES,Bangalore,500000,500000,500000.0,1,MS-Excel
+5,SREEDHARA ENTERPRISES,Bangalore,500000,500000,500000.0,1,Tally
+6,Godrej Capital,"Ahmedabad, Mehsana, Pune, Gandhidham, Vapi, Ahmednagar, Vadodara, Mumbai, Nashik",400000,400000,400000.0,0,Effective Communication
+6,Godrej Capital,"Ahmedabad, Mehsana, Pune, Gandhidham, Vapi, Ahmednagar, Vadodara, Mumbai, Nashik",400000,400000,400000.0,0,MS-PowerPoint
+6,Godrej Capital,"Ahmedabad, Mehsana, Pune, Gandhidham, Vapi, Ahmednagar, Vadodara, Mumbai, Nashik",400000,400000,400000.0,0,MS-Office
+6,Godrej Capital,"Ahmedabad, Mehsana, Pune, Gandhidham, Vapi, Ahmednagar, Vadodara, Mumbai, Nashik",400000,400000,400000.0,0,MS-Excel
+7,Leafoberryy,Mumbai,700000,960000,830000.0,1,Effective Communication
+7,Leafoberryy,Mumbai,700000,960000,830000.0,1,Team Management
+7,Leafoberryy,Mumbai,700000,960000,830000.0,1,Data Analytics
+7,Leafoberryy,Mumbai,700000,960000,830000.0,1,Leadership
+7,Leafoberryy,Mumbai,700000,960000,830000.0,1,E-commerce
+7,Leafoberryy,Mumbai,700000,960000,830000.0,1,Mentorship
+7,Leafoberryy,Mumbai,700000,960000,830000.0,1,Sales
+8,YES Italy Edutech Pvt. Ltd.,"Delhi, Mumbai",400000,1050000,725000.0,1,English Proficiency (Spoken)
+8,YES Italy Edutech Pvt. Ltd.,"Delhi, Mumbai",400000,1050000,725000.0,1,Sales Management
+8,YES Italy Edutech Pvt. Ltd.,"Delhi, Mumbai",400000,1050000,725000.0,1,Lead Generation
+9,Internshala,Gurgaon,660000,700000,680000.0,1,English Proficiency (Spoken)
+9,Internshala,Gurgaon,660000,700000,680000.0,1,Effective Communication
+9,Internshala,Gurgaon,660000,700000,680000.0,1,Problem Solving
+9,Internshala,Gurgaon,660000,700000,680000.0,1,Negotiation
+9,Internshala,Gurgaon,660000,700000,680000.0,1,Sales
+10,Internshala,Gurgaon,660000,800000,730000.0,1,English Proficiency (Spoken)
+10,Internshala,Gurgaon,660000,800000,730000.0,1,Effective Communication
+10,Internshala,Gurgaon,660000,800000,730000.0,1,Problem Solving
+10,Internshala,Gurgaon,660000,800000,730000.0,1,Negotiation
+10,Internshala,Gurgaon,660000,800000,730000.0,1,Sales
+11,Lishanth Enterprises,Vijayawada,1000000,1200000,1100000.0,1,Client Relationship Management (CRM)
+11,Lishanth Enterprises,Vijayawada,1000000,1200000,1100000.0,1,Sales Management
+11,Lishanth Enterprises,Vijayawada,1000000,1200000,1100000.0,1,Customer Support
+11,Lishanth Enterprises,Vijayawada,1000000,1200000,1100000.0,1,Sales Strategy
+11,Lishanth Enterprises,Vijayawada,1000000,1200000,1100000.0,1,Sales Support
+12,Belstar MicroFinance Limited,Chennai,800000,1200000,1000000.0,1,Financial Reporting
+12,Belstar MicroFinance Limited,Chennai,800000,1200000,1000000.0,1,Financial planning
+12,Belstar MicroFinance Limited,Chennai,800000,1200000,1000000.0,1,Accounting
+13,California Burrito,Bangalore,700000,800000,750000.0,1,Video Editing
+14,NYX,Work from home,600000,600000,600000.0,1,Client Relationship Management (CRM)
+14,NYX,Work from home,600000,600000,600000.0,1,Business Development
+14,NYX,Work from home,600000,600000,600000.0,1,Digital Marketing
+14,NYX,Work from home,600000,600000,600000.0,1,Negotiation
+15,Bhanzu (Formerly Exploring Infinities),Work from home,580000,600000,590000.0,1,English Proficiency (Spoken)
+15,Bhanzu (Formerly Exploring Infinities),Work from home,580000,600000,590000.0,1,Effective Communication
+15,Bhanzu (Formerly Exploring Infinities),Work from home,580000,600000,590000.0,1,Presentation skills
+15,Bhanzu (Formerly Exploring Infinities),Work from home,580000,600000,590000.0,1,MS-Excel
+15,Bhanzu (Formerly Exploring Infinities),Work from home,580000,600000,590000.0,1,Sales
+16,Confederation Of Indian Industry (CII),"Coimbatore, Madurai, Visakhapatnam",550000,650000,600000.0,1,Effective Communication
+17,SpotOnMedia,Work from home,506000,640500,573250.0,1,Client Relationship Management (CRM)
+17,SpotOnMedia,Work from home,506000,640500,573250.0,1,English Proficiency (Written)
+17,SpotOnMedia,Work from home,506000,640500,573250.0,1,English Proficiency (Spoken)
+17,SpotOnMedia,Work from home,506000,640500,573250.0,1,Hindi Proficiency (Spoken)
+17,SpotOnMedia,Work from home,506000,640500,573250.0,1,MS-Office
+17,SpotOnMedia,Work from home,506000,640500,573250.0,1,MS-Excel
+18,WWF India,Hyderabad,500000,650000,575000.0,1,Customer Acquisition
+18,WWF India,Hyderabad,500000,650000,575000.0,1,Client Interaction
+18,WWF India,Hyderabad,500000,650000,575000.0,1,Public Speaking
+18,WWF India,Hyderabad,500000,650000,575000.0,1,Sales
+19,Bhanzu (Formerly Exploring Infinities),Bangalore,460000,480000,470000.0,0,English Proficiency (Written)
+19,Bhanzu (Formerly Exploring Infinities),Bangalore,460000,480000,470000.0,0,English Proficiency (Spoken)
+19,Bhanzu (Formerly Exploring Infinities),Bangalore,460000,480000,470000.0,0,Effective Communication
+19,Bhanzu (Formerly Exploring Infinities),Bangalore,460000,480000,470000.0,0,Sales Strategy
+19,Bhanzu (Formerly Exploring Infinities),Bangalore,460000,480000,470000.0,0,MS-Excel
+20,Bhanzu (Formerly Exploring Infinities),Bangalore,460000,460000,460000.0,0,English Proficiency (Written)
+20,Bhanzu (Formerly Exploring Infinities),Bangalore,460000,460000,460000.0,0,English Proficiency (Spoken)
+21,Fitelo,Work from home,450000,600000,525000.0,1,English Proficiency (Written)
+21,Fitelo,Work from home,450000,600000,525000.0,1,English Proficiency (Spoken)
+21,Fitelo,Work from home,450000,600000,525000.0,1,Effective Communication
+21,Fitelo,Work from home,450000,600000,525000.0,1,Client Relationship
+22,Faff,Bangalore,420000,680000,550000.0,0,Effective Communication
+22,Faff,Bangalore,420000,680000,550000.0,0,Conflict Management
+22,Faff,Bangalore,420000,680000,550000.0,0,Problem Solving
+22,Faff,Bangalore,420000,680000,550000.0,0,Time Management
+22,Faff,Bangalore,420000,680000,550000.0,0,Coordination
+22,Faff,Bangalore,420000,680000,550000.0,0,Adaptability
+23,Netcore Cloud,"Thane, Mumbai",410000,500000,455000.0,0,MS SQL Server
+23,Netcore Cloud,"Thane, Mumbai",410000,500000,455000.0,0,Linux
+23,Netcore Cloud,"Thane, Mumbai",410000,500000,455000.0,0,HTML
+24,SpotOnMedia,Work from home,402000,561500,481750.0,1,Client Relationship Management (CRM)
+24,SpotOnMedia,Work from home,402000,561500,481750.0,1,English Proficiency (Written)
+24,SpotOnMedia,Work from home,402000,561500,481750.0,1,English Proficiency (Spoken)
+24,SpotOnMedia,Work from home,402000,561500,481750.0,1,Hindi Proficiency (Spoken)
+24,SpotOnMedia,Work from home,402000,561500,481750.0,1,MS-Office
+24,SpotOnMedia,Work from home,402000,561500,481750.0,1,MS-Excel
+25,NoBroker Technologies Solutions Private Limited,Bangalore,400000,630000,515000.0,1,Business Development
+25,NoBroker Technologies Solutions Private Limited,Bangalore,400000,630000,515000.0,1,Inside Sales
+25,NoBroker Technologies Solutions Private Limited,Bangalore,400000,630000,515000.0,1,Cold Calling
+26,Imarticus Learning,"Mumbai, Noida",400000,600000,500000.0,1,Content Management
+26,Imarticus Learning,"Mumbai, Noida",400000,600000,500000.0,1,Content Writing
+26,Imarticus Learning,"Mumbai, Noida",400000,600000,500000.0,1,Design Thinking
+26,Imarticus Learning,"Mumbai, Noida",400000,600000,500000.0,1,MS-PowerPoint
+26,Imarticus Learning,"Mumbai, Noida",400000,600000,500000.0,1,Storyboarding
+26,Imarticus Learning,"Mumbai, Noida",400000,600000,500000.0,1,MS-Excel
+26,Imarticus Learning,"Mumbai, Noida",400000,600000,500000.0,1,MS-Word
+27,WWF India,Chennai,400000,500000,450000.0,0,Public Speaking
+27,WWF India,Chennai,400000,500000,450000.0,0,Sales
+28,Duroflex Private Limited,Hosur,400000,500000,450000.0,0,Planning
+29,GlobalStep Services Private Limited,Pune,400000,500000,450000.0,1,Interview Coordination
+29,GlobalStep Services Private Limited,Pune,400000,500000,450000.0,1,Resume screening
+29,GlobalStep Services Private Limited,Pune,400000,500000,450000.0,1,Recruitment
+30,LeapScholar,Work from home,400000,400000,400000.0,1,English Proficiency (Written)
+30,LeapScholar,Work from home,400000,400000,400000.0,1,English Proficiency (Spoken)
+30,LeapScholar,Work from home,400000,400000,400000.0,1,Online Teaching
+31,CREO,Bangalore,390000,390000,390000.0,0,Adobe Illustrator
+31,CREO,Bangalore,390000,390000,390000.0,0,Adobe Photoshop
+31,CREO,Bangalore,390000,390000,390000.0,0,Adobe InDesign
+31,CREO,Bangalore,390000,390000,390000.0,0,Canva
+31,CREO,Bangalore,390000,390000,390000.0,0,Figma
+32,IDFC First Bank,"Kolkata, Barasat                                                        (Hybrid)",380000,640000,510000.0,0,Lead Generation
+32,IDFC First Bank,"Kolkata, Barasat                                                        (Hybrid)",380000,640000,510000.0,0,Field Sales
+33,NJ India Invest Private Limited,Surat,375000,420000,397500.0,0,Effective Communication
+33,NJ India Invest Private Limited,Surat,375000,420000,397500.0,0,Sales
+34,Ashiana Housing Limited,Bhiwadi,360000,420000,390000.0,1,Data Analytics
+34,Ashiana Housing Limited,Bhiwadi,360000,420000,390000.0,1,Data Analysis
+34,Ashiana Housing Limited,Bhiwadi,360000,420000,390000.0,1,Data entry
+34,Ashiana Housing Limited,Bhiwadi,360000,420000,390000.0,1,MS-Excel
+34,Ashiana Housing Limited,Bhiwadi,360000,420000,390000.0,1,Power BI
+35,California Burrito,Bangalore,350000,400000,375000.0,0,Digital Illustration
+35,California Burrito,Bangalore,350000,400000,375000.0,0,Interior design
+35,California Burrito,Bangalore,350000,400000,375000.0,0,Motion Graphics
+35,California Burrito,Bangalore,350000,400000,375000.0,0,UI & UX Design
+35,California Burrito,Bangalore,350000,400000,375000.0,0,Graphic Design
+35,California Burrito,Bangalore,350000,400000,375000.0,0,Branding
+36,Medi Assist Healthcare Private Limited,Mumbai,340000,450000,395000.0,0,Medical Terminology
+37,Urban Company,Bangalore,336000,600000,468000.0,0,English Proficiency (Spoken)
+37,Urban Company,Bangalore,336000,600000,468000.0,0,MS-Excel
+38,Urban Company Ltd.,Bangalore,330000,400000,365000.0,0,English Proficiency (Written)
+38,Urban Company Ltd.,Bangalore,330000,400000,365000.0,0,MS-Excel
+39,KnowledgeWorks Global Limited,"Chennai, Mumbai",325000,550000,437500.0,0,English Proficiency (Written)
+39,KnowledgeWorks Global Limited,"Chennai, Mumbai",325000,550000,437500.0,0,English Proficiency (Spoken)
+40,RMSI Private Limited,Hyderabad,320000,450000,385000.0,1,MS SQL Server
+40,RMSI Private Limited,Hyderabad,320000,450000,385000.0,1,ArcGIS
+40,RMSI Private Limited,Hyderabad,320000,450000,385000.0,1,SSMS
+41,Urban Company,Gurgaon,310000,400000,355000.0,0,Effective Communication
+42,Paisabazaar,Gurgaon,300001,460008,380004.5,1,Investment Banking
+42,Paisabazaar,Gurgaon,300001,460008,380004.5,1,Sales
+43,Mintifi Finserve Private Limited,Mumbai,300000,600000,450000.0,1,English Proficiency (Spoken)
+43,Mintifi Finserve Private Limited,Mumbai,300000,600000,450000.0,1,MS-Office
+43,Mintifi Finserve Private Limited,Mumbai,300000,600000,450000.0,1,MS-Excel
+44,Starcrest Services Pvt. Ltd.,"Delhi, Gurgaon, Noida",300000,500000,400000.0,1,Recruitment
+44,Starcrest Services Pvt. Ltd.,"Delhi, Gurgaon, Noida",300000,500000,400000.0,1,MS-Office
+45,Lishanth Enterprises,"Narasaraopet, Anakapalle, Macherla, Prathipadu, Bapatla, Chirala, Gajuwaka Part",300000,480000,390000.0,0,Client Relationship Management (CRM)
+45,Lishanth Enterprises,"Narasaraopet, Anakapalle, Macherla, Prathipadu, Bapatla, Chirala, Gajuwaka Part",300000,480000,390000.0,0,Customer Acquisition
+45,Lishanth Enterprises,"Narasaraopet, Anakapalle, Macherla, Prathipadu, Bapatla, Chirala, Gajuwaka Part",300000,480000,390000.0,0,Sales Management
+45,Lishanth Enterprises,"Narasaraopet, Anakapalle, Macherla, Prathipadu, Bapatla, Chirala, Gajuwaka Part",300000,480000,390000.0,0,Sales Strategy
+45,Lishanth Enterprises,"Narasaraopet, Anakapalle, Macherla, Prathipadu, Bapatla, Chirala, Gajuwaka Part",300000,480000,390000.0,0,Coordination
+45,Lishanth Enterprises,"Narasaraopet, Anakapalle, Macherla, Prathipadu, Bapatla, Chirala, Gajuwaka Part",300000,480000,390000.0,0,Negotiation
+46,Centific,Work from home,300000,470000,385000.0,0,Effective Communication
+47,Scaler,Bangalore,300000,450000,375000.0,1,English Proficiency (Spoken)
+47,Scaler,Bangalore,300000,450000,375000.0,1,Hindi Proficiency (Spoken)
+47,Scaler,Bangalore,300000,450000,375000.0,1,Effective Communication
+48,Zucol Group Of Companies,Pune,300000,404000,352000.0,0,English Proficiency (Written)
+48,Zucol Group Of Companies,Pune,300000,404000,352000.0,0,English Proficiency (Spoken)
+48,Zucol Group Of Companies,Pune,300000,404000,352000.0,0,Network protocols
+48,Zucol Group Of Companies,Pune,300000,404000,352000.0,0,Creative Writing
+49,Cloudnine Hospital,Bangalore,300000,400000,350000.0,0,English Proficiency (Written)
+49,Cloudnine Hospital,Bangalore,300000,400000,350000.0,0,MS-Excel
+49,Cloudnine Hospital,Bangalore,300000,400000,350000.0,0,Canva
+50,Webvio Technologies,Delhi,300000,400000,350000.0,1,SEO
+50,Webvio Technologies,Delhi,300000,400000,350000.0,1,English Proficiency (Written)
+50,Webvio Technologies,Delhi,300000,400000,350000.0,1,Research and Analytics
+50,Webvio Technologies,Delhi,300000,400000,350000.0,1,Creative Writing
+50,Webvio Technologies,Delhi,300000,400000,350000.0,1,Proofreading
