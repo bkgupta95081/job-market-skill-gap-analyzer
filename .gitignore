@@ -1,5 +1,13 @@
-venv/
+# Node
+node_modules/
+
+# Environment variables
+.env
+
+# Build files
+dist/
+build/
+
+# Python cache
 __pycache__/
 *.pyc
-.DS_Store
-data/job_market.db
