@@ -1,16 +1,191 @@
-# React + Vite
+# Job Market & Skill Gap Analyzer
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+This project is about understanding what skills companies are looking for in job postings and what the current job market looks like for students and freshers.
 
-Currently, two official plugins are available:
+I built this project to analyze job data and present the results in a simple dashboard.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## What does this project do?
 
-## React Compiler
+The project mainly focuses on three things:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* Finding the most requested skills in job postings
+* Understanding salary patterns
+* Getting a quick overview of the job market
 
-## Expanding the Oxlint configuration
+For example, from the dataset, skills like **English communication, MS-Excel, Sales, MS-Office and Negotiation** appear frequently.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## My Approach
+
+I started with the job posting dataset and cleaned the data before doing the analysis.
+
+The original dataset had around **8,950 records**. After removing exact duplicate records, I used **50 unique job postings** for the final analysis.
+
+I then analyzed the skills and salary information and created APIs to send this data to the frontend.
+
+## Dashboard
+
+The dashboard has three sections:
+
+### Overview
+
+Shows a quick summary of the dataset:
+
+* Unique jobs
+* Skill records
+* Average salary
+* Experience range
+
+### Skills
+
+This section shows which skills are requested most often.
+
+I used a bar chart to make it easier to compare the demand for different skills.
+
+### Salary
+
+This section shows the average salary and salary information related to different skills.
+
+## Technologies I Used
+
+**Frontend**
+
+* React
+* Vite
+* Recharts
+* CSS
+
+**Backend**
+
+* Node.js
+* Express.js
+* REST API
+* CORS
+
+**Data Analysis**
+
+* Python
+* SQL
+* CSV
+* JSON
+
+## How the Project Works
+
+```text
+Job Data
+   ↓
+Data Cleaning
+   ↓
+Python / SQL Analysis
+   ↓
+Cleaned Data
+   ↓
+Express API
+   ↓
+React Frontend
+   ↓
+Dashboard
+```
+
+The React frontend gets the data from the backend using API requests.
+
+For example:
+
+```text
+React
+  ↓
+/api/skills
+  ↓
+Express Backend
+  ↓
+skill_demand.csv
+  ↓
+Skills shown on dashboard
+```
+
+## Running the Project
+
+### Backend
+
+Open the terminal and go to the backend folder:
+
+```bash
+cd backend
+```
+
+Install the required packages:
+
+```bash
+npm install
+```
+
+Start the backend:
+
+```bash
+npm run server.js
+```
+
+The backend runs on:
+
+```text
+http://localhost:5000
+```
+
+### Frontend
+
+Open another terminal:
+
+```bash
+cd frontend
+```
+
+Install the packages:
+
+```bash
+npm install
+```
+
+Start the frontend:
+
+```bash
+npm run dev
+```
+
+Then open the local URL shown in the terminal, usually:
+
+```text
+http://localhost:5173
+```
+
+## What I Learned
+
+While building this project, I got practical experience with:
+
+* Cleaning and analyzing real-world data
+* Working with Python and SQL
+* Creating REST APIs using Express
+* Connecting a React frontend with a backend
+* Displaying data using charts
+* Managing a project using Git and GitHub
+
+## Future Improvements
+
+I would like to improve this project further by adding:
+
+* Job role filters
+* Location-based analysis
+* A personal skill-gap checker
+* Job recommendations based on skills
+* More job data for better analysis
+* Online deployment
+
+## GitHub
+
+The complete project is available here:
+
+**github.com/bkgupta95081/job-market-skill-gap-analyzer**
+
+## Author
+
+**Prince Gupta**
+
+This project was built as a learning and data-analysis project to understand the job market and the skills companies are looking for.
